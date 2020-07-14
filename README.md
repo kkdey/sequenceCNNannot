@@ -60,7 +60,7 @@ all additional columns -- LD Scores
 
 ## Contact 
 
-In case of any questions, please open an issue or send an email to me at `kkdey@hsph.harvard.edu`.
+In case of any questions, please open an issue or send an email to me at `kdey@hsph.harvard.edu`.
 
 
 
